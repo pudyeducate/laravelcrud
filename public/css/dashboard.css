@@ -1,0 +1,38 @@
+html,
+body {
+    height: 100%;
+}
+.con {
+    height: 100%;
+}
+.iconify {
+    margin-top: -3px;
+    color: #219653;
+    font-size: 20px;
+}
+.sidebar {
+    background-color: #e7f3e9;
+    height: 100%;
+    overflow: scroll;
+}
+
+.sidebar-nav {
+    color: #828282;
+    font-weight: 500;
+}
+
+.sidebar-nav:hover,
+.sidebar-nav:active,
+.sidebar-nav:focus {
+    color: #464444;
+    font-weight: 500;
+}
+
+hr {
+    color: #000;
+    width: 80%;
+    margin: auto;
+}
+.show-img {
+    width: 80px;
+}
